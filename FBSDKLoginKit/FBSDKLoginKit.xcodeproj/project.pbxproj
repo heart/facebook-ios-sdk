@@ -1182,6 +1182,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81B71EAB1D1A277300933E93 /* FBSDKLoginKit-Dynamic.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 			};
 			name = Debug;
 		};
@@ -1189,6 +1190,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81B71EAB1D1A277300933E93 /* FBSDKLoginKit-Dynamic.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 			};
 			name = Release;
 		};
@@ -1222,6 +1224,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81B71EAC1D1A277300933E93 /* FBSDKLoginKit.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 			};
 			name = Debug;
 		};
@@ -1229,6 +1232,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81B71EAC1D1A277300933E93 /* FBSDKLoginKit.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 			};
 			name = Release;
 		};
